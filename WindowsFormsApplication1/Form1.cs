@@ -22,6 +22,8 @@ namespace WindowsFormsApplication1
         {
             Minifier minifier = new Minifier();
             minifier.MinifyStyleSheet("");
+
+            //diğer klasörden
         }
     }
 }
