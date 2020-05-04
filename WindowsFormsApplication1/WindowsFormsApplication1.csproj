@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AjaxMin">
+      <HintPath>..\..\..\GD\Projects\SmallProjects\ASPNETMinfier\ASPNETMinfier\bin\Debug\AjaxMin.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
